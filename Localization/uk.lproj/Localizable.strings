@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  WarmGreeting
+
+  Created by apple on 16.11.2021.
+  
+*/
+"Random-Tost-Title" = "Generate Random Tost";
+"Random-Tost-Text" = "Press Button Start to Generate Random Tost";
+"Random-Tost-Message" = "To generate tost please press button start and wait some time";
+"Random-Tost-Button" = "Start";
